@@ -3,6 +3,7 @@
 **Nombre:** Buscar pacientes por nombre y apellido o DNI.
 
 **Descripción**
+
 Como usuario quiero localizar los datos tanto personales como médicos de un paciente para consultar su información y operaciones posibles sobre el mismo.
 
 **Validación**
