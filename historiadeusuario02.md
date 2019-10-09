@@ -4,7 +4,7 @@
 
 **Descripción**
 
-Como usuario quiero obtener una lista ordenada por nombre y apellidos de todos los pacientes que están registrados en la clínica.
+Como usuario quiero obtener una lista ordenada por nombre y apellidos de todos los pacientes que están registrados en la clínica para ver sus datos personales.
 
 **Validación**
 
