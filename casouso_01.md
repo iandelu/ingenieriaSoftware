@@ -1,7 +1,6 @@
 # Buscar usuario por y apellidos
 
-### ID: 01
-Descripción: Introducimos el apellido del usuario que deseamos buscar y el sistema lo muestra.
+### ID: 01 Descripción: Introducimos el apellido del usuario que deseamos buscar y el sistema lo muestra.
 
 
  **Actores principales:** Administrador
