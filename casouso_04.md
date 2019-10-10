@@ -25,4 +25,5 @@
 
 
 ### Flujos alternativos:
-Si la nueva fecha coincide con otra cita mostrar un mensaje de error.
+Si el usuario no existe, mostrar un mensaje de error.
+Si la nueva fecha coincide con otra cita, mostrar un mensaje de error.
