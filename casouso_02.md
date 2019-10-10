@@ -7,7 +7,7 @@
  **Actores secundarios:** Usuario
 
 ### Precondiciones:
--No se puede modificar el historial del usuario
+- Exista el usuario que se quiera modificar en el sistema.
 
 ### Flujo principal:
 
