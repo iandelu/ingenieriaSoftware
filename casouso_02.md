@@ -16,7 +16,7 @@
   3. El administrador introduce el apellido del usuario.
   4.  El programa le pregunta al administrador por los datos que quiere variar.
   5.  El administrador los introduce y el programa lo guarda.
-  6.  Se muestra el usuario con los datos modificados.
+  6.  Se muestra el administrador con los datos modificados.
 
 
 
