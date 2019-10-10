@@ -4,24 +4,24 @@
 
 
  **Actores principales:** Administrador
- **Actores secundarios:** Usuario
+ **Actores secundarios:** Paciente
 
 ### Precondiciones:
 -Ninguna
 
 ### Flujo principal:
 
-  1. El administrador desea consultar los datos de un usuario
+  1. El administrador desea consultar los datos de un paciente.
   2. El administrador abre el cuadro de diálogo de búsqueda en el menú principal
-  3. El administrador introduce el apellido del usuario
-  4. El sistema muestra por pantalla los datos del usuario
+  3. El administrador introduce el apellido del paciente.
+  4. El sistema muestra por pantalla los datos del paciente.
 
 
 
 
 ### Post condiciones:
-- Se muestran al administrador las distintas operaciones relativas al usuario
+- Se muestran al administrador las distintas operaciones relativas al paciente.
 
 
 ### Flujos alternativos:
-Si el usuario buscado no existe, mostrar un mensaje de error
+Si el paciente buscado no existe, mostrar un mensaje de error
