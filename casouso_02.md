@@ -1,7 +1,6 @@
 # Modificar el usuario
 
-### ID: 02
-Descripción: Introducimos el apellido del usuario que deseamos modificar y el sistema te da la opcion de editar los datos.
+### ID: 02 Descripción: Introducimos el apellido del usuario que deseamos modificar y el sistema te da la opcion de editar los datos.
 
 
  **Actores principales:** Administrador
