@@ -19,7 +19,7 @@
 
 
 ### Post condiciones:
-- El paciente debe quedar registrado en los datos del istema junto con sus datos personales.
+- El paciente debe quedar registrado en los datos del sistema junto con sus datos personales.
 - El programa debe de haber creado un apartado de historial medico y de tratamiento para el usuario.
 
 ### Flujos alternativos:
