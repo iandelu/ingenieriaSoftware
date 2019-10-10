@@ -1,6 +1,6 @@
 # Modificar Cita
 
-### ID: 04 Descripción: Desde el apartado citas aparece la opcion de añadir una nueva cita.
+### ID: 04 Descripción: Desde el apartado citas aparece la opcion de modificar una cita existente.
 
 
  **Actores principales:** Administrador
