@@ -28,7 +28,7 @@
 
 
 ### Flujos alternativos:
-- Si ese espacio de tiempo está ocupado, mostrar un mensaje de error.
-- Si el usuario buscado no existe, mostrar un mensaje de error.
-- Si el usuario ya posee una cita, mostrar un mensaje de error.
+Si ese espacio de tiempo está ocupado, mostrar un mensaje de error.
+Si el usuario buscado no existe, mostrar un mensaje de error.
+Si el usuario ya posee una cita, mostrar un mensaje de error.
 
