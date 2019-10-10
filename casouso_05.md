@@ -1,4 +1,4 @@
-# Modificar Cita
+# Ata de un paciente
 
 ### ID: 05 Descripción: Desde el apartado Pacientes dar de alta a un nuevo paciente.
 
