@@ -1,4 +1,6 @@
-##### ID:04 Nombre: Modificar cita
+# HISTORIAS DE USUARIO
+
+**ID:04 Nombre:** Modificar cita
 
 ##### Descripción
 Como administrador quiero cambiar una cita anteriormente introducida variando la fecha u hora para poder corregir algún tipo de fallo o necesidades del paciente.
