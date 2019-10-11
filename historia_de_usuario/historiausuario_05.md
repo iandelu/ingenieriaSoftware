@@ -1,4 +1,5 @@
-##### ID:05 Nombre: Alta a un paciente
+# HISTORIAS DE USUARIO
+**ID:05 Nombre:** Alta a un paciente
 
 ##### Descripción
 Como administrador quiero dar de alta a un paciente para añadirlo a la clínica.
