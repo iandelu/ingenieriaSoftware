@@ -1,4 +1,4 @@
-# Alta de un paciente
+# Añadir paciente
 
 ### ID: 05 Descripción: Desde el apartado Pacientes dar de alta a un nuevo paciente.
 
