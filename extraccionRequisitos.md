@@ -2,6 +2,23 @@
 
 Descripcion de los requsitos funcionales y no funcionales del software del programa de administración de la clínica.
 
+### Datos que Gestiona el Sistema :
+- Datos de la cita:
+  - Fecha
+  - Hora
+  - Paciente
+  - Notas
+- Datos de usuario:
+  - Nombre y apellidos
+  - Codigo postal
+  - Telefono
+  - Fecha de Nacimiento
+  - Compañia
+  - Recetas
+  - Historial Médico
+  - Estado de Usuario *(alta o baja)*
+
+
 ### REQUISITOS FUNCIONALES :
 - El programa debe ser capaz de buscar al paciente por nombre o DNI y que el programa muestre los datos del usuario.
 - Se debe de poder añadir una cita.
@@ -15,18 +32,8 @@ Descripcion de los requsitos funcionales y no funcionales del software del progr
 
 ### REQUSITOS NO-FUNCIONALES :
 - Almacenanmiento ilimitado de pacientes de la clínica.
-- Datos de la cita:
--- Fecha
--- Hora
--- Paciente
-- Datos de usuario:
--- Nombre y apellidos
--- Codigo postal
--- Telefono
--- Fecha de Nacimiento
--- Compañia
--- Recetas
--- Historial Médico
--- Estado de Usuario *(alta o baja)*
+- Lenguaje de implementación C++.
 - El historial médico del paciente no se puede modificar.
 - El historial de tratamiento debe mostrar cuando se inicia y se cancela un tratamiento.
+- Programa Compatible con Linux.
+
