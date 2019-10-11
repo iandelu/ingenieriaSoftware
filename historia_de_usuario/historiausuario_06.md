@@ -1,4 +1,6 @@
-##### ID:06 Nombre: Mostrar lista
+# HISTORIAS DE USUARIO
+
+**ID:06 Nombre:** Mostrar lista
 
 ##### Descripción
 Como administrador quiero obtener una lista ordenada por apellidos de todos los pacientes de la clínica para ver sus datos personales
