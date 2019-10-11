@@ -25,6 +25,6 @@
 - El tratamiento mostrará la fecha en la que ha sido modificado.
 
 ### Flujos alternativos:
-- Si el administrador busca un paciente que no está registrado, aparecerá un mensaje de error indicando que no existe ningún paciente con esos atributos registrado.
-- Si el paciente buscado no tiene ningún tratamiento recetado, aparecerá la pestaña añadir tratamiento.
-- Si el administrador introduce la fecha en un formato no correcto, aparecerá un mensaje de error.
+Si el administrador busca un paciente que no está registrado, aparecerá un mensaje de error indicando que no existe ningún paciente con esos atributos registrado.
+Si el paciente buscado no tiene ningún tratamiento recetado, aparecerá la pestaña añadir tratamiento.
+Si el administrador introduce la fecha en un formato no correcto, aparecerá un mensaje de error.
