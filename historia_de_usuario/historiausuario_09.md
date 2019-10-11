@@ -2,11 +2,11 @@
 
 **ID: 09** **Nombre:** Añadir una nota a la historia médica de un paciente.
 
-**Descripción**
+#### Descripción
 
 Como administrador quiero añadir una nota a la historia médica del paciente.
 
-**Validación**
+#### Validación
 
 * Se debe buscar al paciente por nombre y apellidos o DNI desde el apartado Historial Médico.
 * Se visualizará un time-line del historial del paciente.
