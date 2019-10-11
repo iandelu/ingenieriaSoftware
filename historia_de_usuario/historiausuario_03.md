@@ -1,4 +1,6 @@
-##### ID:03 Nombre: Añadir cita
+# HISTORIAS DE USUARIO
+
+**ID:03 Nombre:** Añadir cita
 
 ##### Descripción
 Como administrador quiero visualizar las citas libres que tengo y poder añadir para gestionar la clínica.
