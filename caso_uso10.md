@@ -16,7 +16,7 @@
   4. El programa muestra los datos personales y médicos del paciente.
   5. El administrador accede al apartado añadir tratamiento.
   6. El programa abre un cuadro de diálogo para añadir tratamiento.
-  7. El administrador escribe el tratamiento médico y le da a aceptar.
+  7. El administrador escribe el tratamiento médico, la fecha en la que se ha recetado y le da a aceptar.
 
 ### Post condiciones:
 - El tratamiento se queda almacenado en el historial del paciente y puede ser visualizado posteriormente.
@@ -24,3 +24,4 @@
 
 ### Flujos alternativos:
 - Si el administrador busca un paciente que no está registrado, aparecerá un mensaje de error indicando que no existe ningún paciente con esos atributos registrado.
+- Si el administrador introduce la fecha en un formato no correcto, aparecerá un mensaje de error.
