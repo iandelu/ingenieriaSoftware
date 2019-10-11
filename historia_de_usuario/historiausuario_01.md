@@ -1,9 +1,13 @@
-##### ID:01 Nombre: Buscar usuario por apellido
+# HISORIAS DE USUARIO
 
-##### Descripción
+**ID:01 Nombre:** Buscar usuario por apellido.
+
+**Descripción**
+
 Como administrador quiero localizar los datos de un usuario para consultar su información y las operaciones posibles sobre el mismo.
 
-##### Validación
+**Validación**
+
   * Se debe poder localizar cualquier usuario. 
   * Los resultados de la búsqueda pueden mostrar cero o más resultados.
   * No es necesario utilizar el nombre completo.
