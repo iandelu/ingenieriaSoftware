@@ -2,11 +2,11 @@
 
 **ID:02 Nombre:** Modificar un paciente
 
-**Descripción**
+#### Descripción
 
 Como administrador quiero modificar a un paciente para cambiar sus datos personales.
 
-**Validación**
+#### Validación
 
   * Se debe poder modificar cualquier paciente.
   * No es necesario utilizar el nombre completo.
