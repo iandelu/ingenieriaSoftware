@@ -2,11 +2,11 @@
 
 **ID: 07** **Nombre:** Visualizar time-line de la historia médica de un paciente.
 
-**Descripción**
+#### Descripción
 
 Como administrador quiero visualizar el historial médico de un paciente para poder observar como evoluciona.
 
-**Validación**
+#### Validación
 
 * Se debe buscar al paciente por nombre y apellidos o DNI.
 * Se visualizará el historial médico del paciente
