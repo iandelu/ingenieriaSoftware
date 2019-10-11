@@ -2,11 +2,11 @@
 
 **ID: 11** **Nombre:** Modificar un tratamiento ya creado de un paciente.
 
-**Descripción**
+#### Descripción
 
 Como administrador quiero modificar un tratamiento ya añadido de un paciente para poder aplicarle otro tipo de tratamiento.
 
-**Validación**
+#### Validación
 
 * Se debe buscar al paciente por nombre y apellidos o DNI desde el apartado Tratamientos.
 * Se visualizará tanto datos personales como médicos del paciente.
