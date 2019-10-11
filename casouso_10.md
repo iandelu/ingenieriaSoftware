@@ -24,4 +24,5 @@
 
 ### Flujos alternativos:
 Si el administrador busca un paciente que no está registrado, aparecerá un mensaje de error indicando que no existe ningún paciente con esos atributos registrado.
+
 Si el administrador introduce la fecha en un formato no correcto, aparecerá un mensaje de error.
