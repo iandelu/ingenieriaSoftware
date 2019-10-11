@@ -25,6 +25,7 @@ Descripcion de los requsitos funcionales y no funcionales del software del progr
 - Se debe de poder modificar la cita.
 - Se debe de poder dar de alta a un usuario.
 - Se debe de poder acceder al historial medico y al historial de tratamiento.
+- Debe de haber una opción que añada un tratamiento.
 - Debe de haber una opción que cancele un tratamiento y actualice el historial.
 - Se debe de poder añadir datos de la cita al historial médico.
 - Debe de poder mostrar una lista con todos los pacientes.
@@ -33,7 +34,8 @@ Descripcion de los requsitos funcionales y no funcionales del software del progr
 ### REQUSITOS NO-FUNCIONALES :
 - Almacenanmiento ilimitado de pacientes de la clínica.
 - Lenguaje de implementación C++.
-- El historial médico del paciente no se puede modificar.
+- El historial médico del paciente no se puede borrar.
+- El historial de tratamiento no se puede borrar.
 - El historial de tratamiento debe mostrar cuando se inicia y se cancela un tratamiento.
 - Programa Compatible con Linux.
 
