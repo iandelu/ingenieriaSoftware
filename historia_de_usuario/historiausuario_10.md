@@ -2,11 +2,11 @@
 
 **ID: 10** **Nombre:** Añadir un tratamiento a un paciente.
 
-**Descripción**
+#### Descripción
 
 Como administrador quiero añadir un tratamiento a un paciente para que quede registrado.
 
-**Validación**
+#### Validación
 
 * Se debe buscar al paciente por nombre y apellidos o DNI desde el apartado Tratamientos.
 * Se visualizará tanto datos personales como médicos del paciente.
