@@ -45,7 +45,7 @@ Descripcion de los requsitos funcionales y no funcionales del software del progr
 - Se debe de poder visualizar las citas de hoy.
 
 ### REQUSITOS NO-FUNCIONALES :
-- Almacenanmiento ilimitado de pacientes de la clínica.
+- Almacenamiento ilimitado de pacientes de la clínica.
 - Lenguaje de implementación C++.
 - El historial médico del paciente no se puede borrar.
 - El historial de tratamiento no se puede borrar.
