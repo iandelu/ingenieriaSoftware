@@ -25,6 +25,7 @@
 ### Post condiciones:
 - La cita queda guardada en los datos de citas.
 - El usuario no tendrá permitido solicitar una cita hasta que concluya o se modifique esta.
+- Se comprobará que la nueva cita no solapa con otra ya existente.
 
 
 ### Flujos alternativos:
