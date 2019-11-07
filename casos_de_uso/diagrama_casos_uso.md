@@ -1,1 +1,1 @@
-![Diagrama de casos de uso](Use Case Diagram1.png)
+![Diagrama de casos de uso](diagrama_casos_uso.png)
