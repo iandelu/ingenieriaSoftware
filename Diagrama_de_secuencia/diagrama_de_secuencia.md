@@ -1,4 +1,4 @@
-![Diagrama de secuencia 01](01_Buscarusuario.png)
+![Diagrama de secuencia 01](01_Buscarusuario.PNG)
 ![Diagrama de secuencia 02](.png)
 ![Diagrama de secuencia 03](.png)
 ![Diagrama de secuencia 04](.png)
