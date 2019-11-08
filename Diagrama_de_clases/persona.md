@@ -18,7 +18,7 @@ datos, borrar a un paciente, obtener el DNI y mostrar el paciente.
 + getPersona() **Muestra por pantalla todos los datos de una persona**
 - setNombre(string nombre) **Recibe un nombre por parametro y modifica el del paciente por este nuevo.**
 + setApellidos(string apellido) **Recibe el apellido por parametro y modifica el del paciente por este nuevo.**
-- setDNI(string DNI) **Recibe un nuevo deni por parametro y modifica el del paceinte por este.**
+- setDNI(string DNI) **Recibe un nuevo dni por parametro y modifica el del paciente por este.**
 + setTelefono(int telefono) **recibe el telefono nuevo como parametro y modifica el ya existente por este.**
 - setDireccion(string direccion) **Recibe una nueva direccion por parametro y modifica la ya existente.**
 + setFecha(struct fecha) **Recibe una estructura fecha y modifica la fecha de el paciente por esta nueva.**
