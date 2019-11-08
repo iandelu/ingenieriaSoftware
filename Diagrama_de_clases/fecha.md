@@ -1,6 +1,6 @@
 # CLASE: FECHA
 ### DESCRIPCION DE LA CLASE:
-Eesta estructura es una estructura auxiliar que sirve para los datos de las demas clases de tiopo fecha
+Esta estructura es una estructura auxiliar que sirve para los datos de las demas clases de tipo fecha
 
 ### DATOS:
 + AÑO _(int)_
