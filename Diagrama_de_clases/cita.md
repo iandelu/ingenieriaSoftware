@@ -3,7 +3,7 @@
 Esta clase es la clase cita que posee la informacion sobre la fecha de la cita, un identificador de la misma y un apartado de notas sobre la evaluacion del paciente. 
 
 ### DATOS:
-+ Cita _(string)_:  **recibe la id de la cita **
++ Cita _(string)_:  **recibe la id de la cita**
 + Fecha de Inicio _(struct fecha)_: **fecha de inicio del tratamiento**
 + Fecha de Fin _(struct fecha)_: **fecha en la que se termina el tratamiento**
 
