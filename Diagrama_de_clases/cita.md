@@ -10,5 +10,5 @@ Esta clase es la clase cita que posee la informacion sobre la fecha de la cita, 
 ### MÉTODOS:
 - Cita() **Constructor, recibe por parametros la fecha, asigana una id aleatoria**
 + setNota(string) **recibe una cadena por parametro y la copia en elatributo nota de la cita**
-- getFecha() **visualiza la fecha de la cita deseada*
+- getFecha() **visualiza la fecha de la cita deseada**
 + getID() **Observador de el ID de la cita**
