@@ -4,13 +4,15 @@ Esta clase es la clase tratamiento que posee datos como la fecha de inicio, de f
 informacion de un tratamiento de un paciente.
 
 ### DATOS:
-+ Nota _(string)_:  **cadena de tamaño maximo 300 caracteres que contiene alguna anotacion sobre la cita del paciente*
-+ Fecha _(struct fecha)_: **fecha de la cita para un paciente*
-+ ID _(int)_: **dato numerico que sirve para ayudar a buscar la cita mas rapida**
++ Nombre _(string)_:  **nombre del tratamiento**
++ Fecha de Inicio _(struct fecha)_: **fecha de inicio del tratamiento**
++ Fecha de Fin _(struct fecha)_: **fecha en la que se termina el tratamiento**
++ Detalles _(string)_ **cadena de unos 300 caracteres que guarde detalles sobre el tratamiento en caso de que sea necesario**
 
 ### MÉTODOS:
-- Cita() **Constructor, recibe por parametros la fecha, asigana una id aleatoria**
-+ setNota(string) **recibe una cadena por parametro y la copia en elatributo nota de la cita**
-- getFecha() **visualiza la fecha de la cita deseada*
-+ getID() **Observador de el ID de la cita**
-
+- Tratamiento() **Constructor, recibe por parametros la fecha de inicio y el nombre del tratamiento.**
++ SetFin(struct fecha Fin) **Modificador de la fecha de finalización**
+- getFechainicio() **Observador de la fecha de inicio**
++ getTratamiento() **Observador del tratamiento**
+- getFechaFin() **Observador de la fecha de finalización**
++ setDetalles() **Modificador del canpo detalles**
