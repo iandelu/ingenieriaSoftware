@@ -22,7 +22,7 @@ datos, borrar a un paciente, obtener el DNI y mostrar el paciente.
 + getTelefono(int telefono) **observador de telefono**
 - getDireccion(string direccion) **observador de direccion**
 + getFecha(struct fecha) **observador de fecha**
-- getCompañia(string compañia) **observador de compañia* 
+- getCompañia(string compañia) **observador de compañia**
 
 - setNombre(string nombre) **Recibe un nombre por parametro y modifica el del paciente por este nuevo.**
 + setApellidos(string apellido) **Recibe el apellido por parametro y modifica el del paciente por este nuevo.**
