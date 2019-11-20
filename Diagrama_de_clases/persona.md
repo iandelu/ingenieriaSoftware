@@ -15,7 +15,15 @@ datos, borrar a un paciente, obtener el DNI y mostrar el paciente.
 
 ### MÉTODOS:
 - Persona() **Constructor, recibe por parametros todos los datos del paciente nuevo e inicializa el nuevo paciente (todos son obligatorios)**
-+ getPersona() **Muestra por pantalla todos los datos de una persona**
+
+- getNombre(string nombre) **observador de nombre**
++ getApellidos(string apellido) **observador de apellidos**
+- getDNI(string DNI) **observador de DNI**
++ getTelefono(int telefono) **observador de telefono**
+- getDireccion(string direccion) **observador de direccion**
++ getFecha(struct fecha) **observador de fecha**
+- getCompañia(string compañia) **observador de compañia* 
+
 - setNombre(string nombre) **Recibe un nombre por parametro y modifica el del paciente por este nuevo.**
 + setApellidos(string apellido) **Recibe el apellido por parametro y modifica el del paciente por este nuevo.**
 - setDNI(string DNI) **Recibe un nuevo dni por parametro y modifica el del paciente por este.**
