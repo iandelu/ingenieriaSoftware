@@ -9,4 +9,15 @@ Esta clase es una clase auxiliar que sirve para almacenar los diferentes tipos d
 + Hora _(int)_ 
 + minuto _(int)_
 
+### MÉTODOS:
+- Fecha(dia, mes, año) **Constructor, recibe obligatoriamente el dia, mes y año.**
+
+- getFecha() **Observador la fecha.**
++ getDia() **Observador de la variable dia.**
+- getMes() **Observador de la variable mes.**
++ getAño() **Observador de la variable año.**
+- getHora() **Observador de la variable hora.**
++ getMinuto() **Observador de la variable minuto.**
+
+-setDia()
 
