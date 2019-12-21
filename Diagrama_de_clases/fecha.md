@@ -19,5 +19,9 @@ Esta clase es una clase auxiliar que sirve para almacenar los diferentes tipos d
 - getHora() **Observador de la variable hora.**
 + getMinuto() **Observador de la variable minuto.**
 
--setDia()
+- setDia(int dia) **Recibe un parametro de tipo entero y lo guarda en dia_.**
++ setMes(int mes) **Recibe un parametro de tipo entero y lo guarda en mes_.**
+- setAño(int año) **Recibe un parametro de tipo entero y lo guarda en año_.**
++ setHora(int hora) **Recibe un parametro de tipo entero y lo guarda en hora_.**
+- setMinuto(int minuto) **Recibe un parametro de tipo entero y lo guarda en minuto_.**
 
