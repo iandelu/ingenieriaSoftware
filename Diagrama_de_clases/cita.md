@@ -23,4 +23,4 @@ Esta clase es la clase cita que posee la informacion sobre la fecha de la cita, 
 - addCita(lista) **Añade una nueva cita en una lista.**
 + deleteCita(dni, fecha, lista) **Recibe el dni del paciente, la fecha a la que pertenece la cita y la borra de la lista.**
 - leeCitas(fichero, lista) **Carga los datos del fichero Citas en una lista.**
-+escribeCitas(fichero, lista) **Carga los datos de una lista en el fichero Citas.**
++ escribeCitas(fichero, lista) **Carga los datos de una lista en el fichero Citas.**
