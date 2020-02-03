@@ -29,8 +29,8 @@ int main(void){
     setDia_actual(Dia);
 
     system("clear");
-    cout<<"Hoy es: "<<Dia.getDia()<<"/"<<Dia.getMes()<<"/"<<Dia.getAnio()<<"\n";
-    cout<<"Bienvenido, aqui tiene sus citas de hoy:\n\n";
+    cout<<"Bienvenido, hoy es: "<<Dia.getDia()<<"/"<<Dia.getMes()<<"/"<<Dia.getAnio()<<"\n";
+    cout<<"Aqui tiene sus citas de hoy:\n\n";
 
     mostrarCitas(Dia.getDia(), Dia.getMes(), Dia.getAnio(), Citas);
 
