@@ -4,6 +4,7 @@
 //#include "cita.h"
 #include "funcionesPersona.h"
 #include <list>
+#include <ctime>
 
 using namespace std;
 
@@ -28,6 +29,7 @@ int main(void){
     setDia_actual(Dia);
 
     system("clear");
+    cout<<"Hoy es: "<<Dia.getDia()<<"/"<<Dia.getMes()<<"/"<<Dia.getAnio()<<"\n";
     cout<<"Bienvenido, aqui tiene sus citas de hoy:\n\n";
 
     mostrarCitas(Dia.getDia(), Dia.getMes(), Dia.getAnio(), Citas);
@@ -51,64 +53,12 @@ int main(void){
 
 
 void setDia_actual(Fecha &Dia){
-    int numero; //Dato auxiliar para introducir la fecha de hoy
-    int aux = 0;
+    time_t now = time(0);
 
-    do{
-        system("clear");
-        cout<<"Hola, introduzca la fecha de hoy para poder utilizar el programa.\n\n";
-        cout<<"Dia: ";
-        cin>>numero;
+    tm * time = localtime(&now);
 
-        if(numero<1 || numero >31){
-            aux = 0;
-            cin.ignore();
-            cout<<"Dia no valido. Introduzca un valor entre 1 y 31.\n";
-            cin.get();
-        }   
-
-        else{
-            Dia.setDia(numero);
-            aux = 1;
-        }
-    }while(aux != 1);
-
-
-    do{
-        system("clear");
-        cout<<"Mes: ";
-        cin>>numero;
-
-        if(numero<1 || numero>12){
-            aux = 0;
-            cin.ignore();
-            cout<<"Mes no valido. Introduzca un valor entre 1 y 12.\n";
-            cin.get();
-        }
-
-        else{
-            aux = 1;
-            Dia.setMes(numero);
-        }
-    }while(aux != 1);
-
-    do{
-        system("clear");
-        cout<<"Año: ";
-        cin>>numero;
-
-        if(numero<2019 || numero > 2100){
-            aux = 0;
-            cin.ignore();
-            cout<<"Año no valido.\n";
-            cin.get();
-        }
-
-        else{
-            aux = 1;
-            Dia.setAnio(numero);
-        } 
-    }while(aux != 1);
-
+    Dia.setAnio((time->tm_year + 1900));
+    Dia.setMes((time->tm_mon + 1));
+    Dia.setDia(time->tm_mday);
 }
 
